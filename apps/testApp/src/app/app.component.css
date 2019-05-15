@@ -1,0 +1,13 @@
+.column_layout{
+    display: flex; 
+    max-width: 1300px;
+}
+
+.column1{
+    flex: 1;
+    padding: 20px;
+}
+
+.column2{
+    flex: 1;
+}
